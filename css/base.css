@@ -140,7 +140,7 @@ a:hover img{
 /* header 
 ------------------------------------------ */
 header {
-    width:940px;
+    max-width:940px;
     position:relative;
     margin:20px auto;
     font-family:"Roboto Slab" , Garamond , "Times New Roman" , "游明朝" , "Yu Mincho" , "游明朝体" , "YuMincho" , "ヒラギノ明朝 Pro W3" , "Hiragino Mincho Pro" , "HiraMinProN-W3" , "HGS明朝E" , "ＭＳ Ｐ明朝" , "MS PMincho" , serif;
@@ -236,10 +236,11 @@ header h1#logo {
     font-family:"Roboto Slab" , Garamond , "Times New Roman" , "游明朝" , "Yu Mincho" , "游明朝体" , "YuMincho" , "ヒラギノ明朝 Pro W3" , "Hiragino Mincho Pro" , "HiraMinProN-W3" , "HGS明朝E" , "ＭＳ Ｐ明朝" , "MS PMincho" , serif;
     padding: 15px 0;
     border-top:1px solid #aaa;
+    margin: 0;
 }
 
 #g-nav ul {
-    width:960px;
+    max-width:940px;
     margin:auto;
     text-align: center;
 }
@@ -297,7 +298,7 @@ header h1#logo {
 #news-inner {
     height:32px;
     line-height: 32px;
-    width:1000px;
+    /* width:1000px; */
     margin: auto;
     font-family:"Roboto Slab" , Garamond , "Times New Roman" , "游明朝" , "Yu Mincho" , "游明朝体" , "YuMincho" , "ヒラギノ明朝 Pro W3" , "Hiragino Mincho Pro" , "HiraMinProN-W3" , "HGS明朝E" , "ＭＳ Ｐ明朝" , "MS PMincho" , serif;
 }
@@ -318,11 +319,11 @@ header h1#logo {
     /* contentsの背景 */
     background:url(../images/lead-bg.jpg) center top no-repeat;
     /* 高さのミニマム値 */
-    min-height:;
+    /* min-height:; */
 }
 
 .wrapper {
-    width: 940px;
+    max-width: 940px;
     margin: auto;
 }
 
@@ -531,13 +532,13 @@ header h1#logo {
 #recent {
     clear:both;
     padding: 30px 0;
-    width:940px;
+    max-width:940px;
     margin: auto;
 }
 
 .recentL {
-    width:700px;
     float: left;
+    margin: auto;
 }
 
 #recent1 {
@@ -545,9 +546,9 @@ header h1#logo {
 }
 
 #recent1 dl {
-    width:220px;
+    width: calc(20% - 10px);
     float: left;
-    margin-right: 20px;
+    margin: 0 5px;
 }
 
 #recent1 dl.lastchild {
@@ -556,12 +557,11 @@ header h1#logo {
 
 #recent1 dt {
     margin-bottom: 10px;
-    width:220px;
-    height: 220px;
+    height: calc(940px / 5 - 10px);
     overflow: hidden;
 }
 
-#recent1. dd.recent-title {
+#recent1 dd.recent-title {
     font-weight: 600;
     margin-bottom: 5px;
 }
@@ -581,6 +581,9 @@ header h1#logo {
 #recent1.readmore a:hover {
     display: block;
     background:#777
+}
+#recent1 dt img {
+    width: 100%;
 }
 
 /* news */
@@ -791,7 +794,7 @@ footer {
 
 #footer-last ul {
     text-align: center;
-    width:940px;
+    max-width:940px;
     margin: auto;
 }
 
@@ -840,7 +843,8 @@ footer {
 .catch {
     margin: 20px auto 50px auto;
     background:#1a1a1a;
-    width:940px;
+    max-width:940px;
+    padding-top: 10px;
 }
 
 .catch dl {
@@ -854,8 +858,7 @@ footer {
     padding:20px;
     background:#a3a3a3;
     margin:20px;
-    width:570px;
-    float: left;
+    max-width:900px;
 }
 
 .catch dt h1 {
@@ -874,9 +877,10 @@ footer {
     padding:20px;
     background:#2e2e2e;
     color:#fff;
-    width:610px;
+    max-width:900px;
     left:0;
     bottom:0;
+    margin: auto;
 }
 
 .catch dd.interview-img {
@@ -909,37 +913,37 @@ footer {
 }
 
 .intL p {
-    width:620px;
+    width:60%;
     float: left;
-    margin-right:20px;
+    margin-right:2%;
 }
 
 .intL img {
     float: right;
-    width:300px;
+    width:38%;
     height: auto;
     overflow: hidden;
 }
 
 .intR p {
-    width:620px;
+    width:60%;
     float: right;
-    margin-left:20px;
+    margin-left:2%;
 }
 
 .intR img {
     float: left;
-    width:300px;
+    width:38%;
     height: auto;
     overflow: hidden;
 }
 
-/* schedule */
-#schedule {
+/* session */
+#session {
     margin:50px 0 30px 0;
 }
 
-#schedule h1 {
+#session h1 {
     width:100%;
     height:42px;
     line-height: 42px;
@@ -954,51 +958,9 @@ footer {
     text-align:center;
 }
 
-#schedule-area {
+#session-area {
     width:700px;
     float: left;
-}
-
-#schedule-area dt {
-    width:100px;
-    border-radius:8px;
-    height:30px;
-    line-height: 30px;
-    text-align: center;
-    background:#4d4d4d;
-    color:#fff;
-    float: left;
-}
-
-#schedule-area dd {
-    padding-right:20px;
-    width:550px;
-}
-
-#schedule-area dd.time-s {
-    float: right;
-    margin-left:30px;
-}
-
-#schedule-area dd.time-s p.time-title {
-    font-family:"Roboto Slab" , Garamond , "Times New Roman" , "游明朝" , "Yu Mincho" , "游明朝体" , "YuMincho" , "ヒラギノ明朝 Pro W3" , "Hiragino Mincho Pro" , "HiraMinProN-W3" , "HGS明朝E" , "ＭＳ Ｐ明朝" , "MS PMincho" , serif;
-    font-size:18px;
-}
-
-#schedule-area dd.time-s p.time-detail {
-    font-size:14px;
-}
-
-#schedule-area .time-next {
-    display: block;
-    width:3px;
-    height: 50px;
-    background:#d4d4d4;
-    margin-left:50px;
-}
-
-#schedule-area .time-next + dl {
-    margin-top:12px;
 }
 
 /* プロフィールエリア */
@@ -1137,23 +1099,27 @@ footer {
 
 .eq-wrap {
     margin:20px auto;
-    width:960px;
+    width:940px;
+}
+
+.eq-flex {
+    display: flex;
 }
 
 .eq-wrap dl {
     margin: 10px 10px 40px 10px;
-    float: left;
-    width:300px;
+    display: inline-block;
+    width: calc((100% - 60px) / 3);
 }
 
 .eq-wrap dt {
-    width:300px;
+    width: 100%;
     height: 200px;
     margin-bottom:15px;
 }
 
 .eq-wrap dt img {
-    width:298px;
+    width: 100%;
     height: 198px;
     overflow: hidden;
     border:1px solid #000;
@@ -1332,7 +1298,7 @@ table.history td {
 	background-color:#E6E6E6;
 	margin:0 0 10px 120px;
     width:700px;
-    height:300px;
+    height:350px;
     text-align: left;
 }
 #office .box1 p.title {
@@ -1342,7 +1308,7 @@ table.history td {
 #office .box1 p.text {
     font-size:15px;
 	color:#808080;
-	line-height:3;
+	line-height:2;
 }
 #office .box1 img {
 	padding:10px;
