@@ -169,7 +169,7 @@ header h1#logo {
 
 #main-nav #g1 {
     top:20px;
-    left: 0;
+    left: 20px;
     background:url(../images/TOP_06.jpg) 0 0 no-repeat;
     width:38px;
     height: 46px;
@@ -214,7 +214,7 @@ header h1#logo {
 
 #main-nav #g4 {
     top:20px;
-    right: 0;
+    right: 20px;
     background:url(../images/TOP_13.jpg) 0 0 no-repeat;
     width:91px;
     height: 46px;
@@ -293,6 +293,10 @@ header h1#logo {
     border-top:1px solid #aaa;
     border-bottom:1px solid #aaa;
     background:#f2f2f2;
+}
+
+#news h2.note {
+    margin-left: 20px;
 }
 
 #news-inner {
@@ -1610,8 +1614,22 @@ p.aisatu {
 	border: 1px solid #666666;
 	margin:0 auto;
 	padding:10px;
+}*/
+
+#formWrap label {
+    margin-right: 10px;
 }
------------------------------------- */
+
+#formWrap .form_btn {
+    background-color: #6e83df;
+    margin: 0 20px;
+    color: white;
+    font-weight: 900;
+    border: none;
+    padding: 5px 20px;
+    cursor: pointer;
+}
+/*------------------------------------ */
 p.note {
 	margin:0 0 20px 130px;
 	font-size:15px;

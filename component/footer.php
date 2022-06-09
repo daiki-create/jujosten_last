@@ -76,7 +76,7 @@
                     <li><a href="interview01.php">メンバー</a></li>
                     <li><a href="work.php">製造工程</a></li>
                     <li><a href="facility.php">主要設備</a></li>
-                    <li class="lastchild"><a href="office.php">社内活動</a></li>
+                    <li><a href="office.php">社内活動</a></li>
                     <li class="lastchild"><a href="office.html">環境保護方針</a></li>
                 </ul>
             </nav>

@@ -11,6 +11,8 @@
 
     <title>Document</title>
     <link rel="stylesheet" href="css/base.css" media="screen">
+    <link rel="stylesheet" href="css/responsive.css" media="screen">
+
     <link rel="stylesheet" type="text/css" href="css/lightbox.css" media="screen,tv" />
     <script type="text/javascript" charset="UTF-8" src="js/lightbox_plus.js"></script>
 </head>

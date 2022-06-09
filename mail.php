@@ -52,7 +52,10 @@
                       </tr>
                       <tr>
                         <th>お問い合わせ内容（項目）</th>
-                        <td><input size="40" type="text" name="お問い合わせ内容（項目）" /></td>
+                        <td><input id="omitsumori" type="checkbox" name="お問い合わせ内容（項目）" value="お見積り"/><label for="omitsumori">お見積り</label>
+                        <input id="siryo" type="checkbox" name="お問い合わせ内容（項目）" value="資料申し込み"/><label for="siryo">資料申し込み</label>
+                        <input id="soudan" type="checkbox" name="お問い合わせ内容（項目）" value="ご相談"/><label for="soudan">ご相談</label>
+                        <input id="sonota" type="checkbox" name="お問い合わせ内容（項目）" value="その他"/><label for="sonota">その他</label></td>                        
                       </tr>
                       <tr>
                         <th>E-mail <img src="images/form_1.gif" class="hissu" /></th>
@@ -64,7 +67,12 @@
                       </tr>
                       <tr>
                         <th>弊社を知ったきっかけ</th>
-                        <td><input size="40" type="text" name="弊社を知ったきっかけ" /></td>
+                        <td><input id="izen" type="radio" name="弊社を知ったきっかけ" value="以前から知っていた"/><label for="izen">以前から知っていた</label>
+                        <input id="kensaku" type="radio" name="弊社を知ったきっかけ" value="検索サイトから"/><label for="kensaku">検索サイトから</label><br>
+                        <input id="takigyo" type="radio" name="弊社を知ったきっかけ" value="他企業様からのご紹介"/><label for="takigyo">他企業様からのご紹介</label>
+                        <input id="sonota2" type="radio" name="弊社を知ったきっかけ" value="その他"/><label for="sonota2">その他</label></td>
+
+                      </>
                       </tr>
                       <tr>
                         <th colspan="2">お問い合わせ内容 <img src="images/form_1.gif" class="hissu_" /><br />
@@ -72,8 +80,8 @@
                         <textarea name="お問い合わせ内容" cols="90" rows="20"></textarea><br />
 						<br />
                         <p align="center">
-                      <input type="image" src="images/form_2.gif" alt="送信" />
-					  　<input type="reset" value="リセット" />
+                      <input type="submit" class="form_btn" value="内容確認ページへ" />
+					            <input type="reset" class="form_btn" value="リセット"/>
                     </p></th>
                       </tr>
                     </table>

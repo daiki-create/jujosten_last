@@ -1,0 +1,13 @@
+@media screen and (max-width:940px) {
+    header,
+    #recent,
+    #footer-last ul,
+    .catch,
+    .eq-wrap,
+    .wrapper{
+        padding: 0 10px;
+    }
+    body{
+        max-width: 100%;
+    }
+}

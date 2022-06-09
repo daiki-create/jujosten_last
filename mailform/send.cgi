@@ -17,7 +17,8 @@ $conf{'spam_block'} = 0;
 $conf{'sendmail'} = '/usr/sbin/sendmail';
 
 #06.設置者のアドレス(カンマ区切り)
-$conf{'mailto'} = 'm.08043447131@gmail.com';
+# $conf{'mailto'} = 'm.08043447131@gmail.com';
+$conf{'mailto'} = '6280ikiad@gmail.com';
 
 #07.送信完了時にリダイレクトするサンクスページ
 $conf{'thanks'} = '/thanks.html';

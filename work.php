@@ -12,7 +12,8 @@
         <article>
             <section id="work">
                 <div class="wrapper">
-                    <h1 class="section-title">WORKS<span>製造工程</span></h1>
+                    <h1 class="section-title">WORKS<span>製造工程</span></h1><br>
+                    <p class="note">下記のQRコードにアクセスで、実作業動画が、ご覧いただけます。</p>
 
                     <div class="box">
                         <div class="left">
@@ -37,13 +38,13 @@
                     <div class="box">
                         <div class="left">
                             <figure class="relative">
-                                <img src="images/work5.jpg" width="350px" alt="プレス工程│タレットパンチブレス・セット　プレス・プレスブレーキ等による抜き加工" />
+                                <img src="images/work13.jpg" width="350px" alt="プレス工程│タレットパンチブレス・セット　プレス・プレスブレーキ等による抜き加工" />
                                 <figcaption class="absolute"><p class="text2">プレス工程<br />タレットパンチブレス・セット<br />プレス・プレスブレーキ等による抜き加工</p></figcaption>
                             </figure>
                         </div>
                         <div class="right">
                             <figure class="relative">
-                                <img src="images/work6.jpg" width="350px" alt="曲げ工程│ベンダー・フライスＶ溝加工等に よる曲げ加工" />
+                                <img src="images/work11.jpg" width="350px" alt="曲げ工程│ベンダー・フライスＶ溝加工等に よる曲げ加工" />
                                 <figcaption class="absolute"><p class="text2">曲げ工程<br />ベンダー・フライスＶ溝加工等に<br />よる曲げ加工</p></figcaption>
                             </figure>
                         </div>
@@ -63,7 +64,7 @@
                         </div>
                         <div class="right">
                             <figure class="relative">
-                                <img src="images/work8.jpg" width="350px" alt="溶接組立工程│ティグ溶接・スポット溶接・コンデンサー溶接 ロボット溶接機等による組立加工" />
+                                <img src="images/work14.jpg" width="350px" alt="溶接組立工程│ティグ溶接・スポット溶接・コンデンサー溶接 ロボット溶接機等による組立加工" />
                                 <figcaption class="absolute"><p class="text2">溶接組立工程<br />ティグ溶接・スポット溶接・コンデンサー溶接<br />ロボット溶接機等による組立加工</p></figcaption>
                             </figure>
                         </div>
@@ -77,7 +78,7 @@
                     <div class="box">
                         <div class="left">
                             <figure class="relative">
-                                <img src="images/work9.jpg" width="350px" alt="仕上げ工程│サンダー・レジンダー・平面 研磨機・手作業等による仕上げ加工" />
+                                <img src="images/work15.jpg" width="350px" alt="仕上げ工程│サンダー・レジンダー・平面 研磨機・手作業等による仕上げ加工" />
                                 <figcaption class="absolute"><p class="text2">仕上げ工程<br />サンダー・レジンダー・平面<br />研磨機・手作業等による仕上げ加工</p></figcaption>
                             </figure>
                         </div>
