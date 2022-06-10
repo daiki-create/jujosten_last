@@ -50,10 +50,10 @@
                         
                         <div class="intv intR clear">
                             <h3>新卒者・求職者へのメッセージ</h3>
+                            <img src="images/contents-bg.jpg" alt="">   
                             <p>板金に対しての技術は確実に習得できる会社だと自負しております。そして人間関係でもとても良い職場だと思いますので、興味のある方は是非挑戦して欲しいですね。</p>
-                            <img src="images/contents-bg.jpg" alt="">  
                         </div>
-                        <div class="intv intR clear">
+                        <div class="intv intL clear">
                             <h3>最後に一言</h3>
                             <p>保守的という枠を抜けだし、外へ向けてのチャレンジ精神を持ってやる気のある会社、どんどん新しいことに挑みたいと思ってます。</p>
                             <img src="images/contents-bg.jpg" alt="">  

@@ -24,34 +24,34 @@
                     <table class="formTable">
                       <tr>
                         <th>会社名 <img src="images/form_1.gif" class="hissu" /></th>
-                        <td><input size="40" type="text" name="会社名" /></td>
+                        <td><input size="" type="text" name="会社名" /></td>
                       </tr>
                       <tr>
-                        <th>事業所・部署名</th>
-                        <td><input size="40" type="text" name="事業所・部署名" /> </td>
+                        <th>事業所・<br class="visible_940">部署名</th>
+                        <td><input size="" type="text" name="事業所・部署名" /> </td>
                       </tr>
                       <tr>
                         <th>役職名</th>
-                        <td><input size="40" type="text" name="役職名" /> </td>
+                        <td><input size="" type="text" name="役職名" /> </td>
                       </tr>
                       <tr>
                         <th>住所 <img src="images/form_1.gif" class="hissu" /></th>
-                        <td><input size="40" type="text" name="住所" /></td>
+                        <td><input size="" type="text" name="住所" /></td>
                       </tr>
                       <tr>
-                        <th>お名前（漢字） <img src="images/form_1.gif" class="hissu" /></th>
-                        <td><input size="40" type="text" name="お名前（漢字）" /></td>
+                        <th>お名前<br class="visible_940">(漢字)<img src="images/form_1.gif" class="hissu" /></th>
+                        <td><input size="" type="text" name="お名前（漢字）" /></td>
                       </tr>
                       <tr>
                         <th>フリガナ <img src="images/form_1.gif" class="hissu" /></th>
-                        <td><input size="40" type="text" name="フリガナ" /></td>
+                        <td><input size="" type="text" name="フリガナ" /></td>
                       </tr>
                       <tr>
                         <th>電話番号</th>
-                        <td><input size="40" type="text" name="電話番号" /></td>
+                        <td><input size="" type="text" name="電話番号" /></td>
                       </tr>
                       <tr>
-                        <th>お問い合わせ内容（項目）</th>
+                        <th>お問い合わせ内容<br class="visible_940">（項目）</th>
                         <td><input id="omitsumori" type="checkbox" name="お問い合わせ内容（項目）" value="お見積り"/><label for="omitsumori">お見積り</label>
                         <input id="siryo" type="checkbox" name="お問い合わせ内容（項目）" value="資料申し込み"/><label for="siryo">資料申し込み</label>
                         <input id="soudan" type="checkbox" name="お問い合わせ内容（項目）" value="ご相談"/><label for="soudan">ご相談</label>
@@ -59,11 +59,11 @@
                       </tr>
                       <tr>
                         <th>E-mail <img src="images/form_1.gif" class="hissu" /></th>
-                        <td><input size="40" type="email" name="E-mail" /></td>
+                        <td><input size="" type="email" name="E-mail" /></td>
                       </tr>
                       <tr>
-                        <th>mail（入力確認） <img src="images/form_1.gif" class="hissu" /></th>
-                        <td><input size="40" type="email" name="mail（入力確認）" /></td>
+                        <th>mail<br class="visible_940">(入力確認)<img src="images/form_1.gif" class="hissu" /></th>
+                        <td><input size="" type="email" name="mail（入力確認）" /></td>
                       </tr>
                       <tr>
                         <th>弊社を知ったきっかけ</th>
@@ -77,7 +77,7 @@
                       <tr>
                         <th colspan="2">お問い合わせ内容 <img src="images/form_1.gif" class="hissu_" /><br />
 						<br />
-                        <textarea name="お問い合わせ内容" cols="90" rows="20"></textarea><br />
+                        <textarea name="お問い合わせ内容" cols="" rows="20"></textarea><br />
 						<br />
                         <p align="center">
                       <input type="submit" class="form_btn" value="内容確認ページへ" />

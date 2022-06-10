@@ -41,6 +41,7 @@
                         <tr>
                             <th class="product1"></th>
                             <td>
+                                <a href="images/j41.png" data-lightbox="equip"><img src="images/j41.png" height="270px" /></a>
                                 <a href="images/j37.png" data-lightbox="equip"><img src="images/j37.png" height="270px" /></a>
                                 <a href="images/j38.png" data-lightbox="equip"><img src="images/j38.png" height="270px" /></a>
                                 <a href="images/j38.png" data-lightbox="equip"><img src="images/j39.png" height="270px" /></a>

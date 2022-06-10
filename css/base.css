@@ -137,6 +137,13 @@ a:hover img{
     opacity:0.8;
 }
 
+.hidden_940{
+    display: block;
+}
+.visible_940{
+    display: none;
+}
+
 /* header 
 ------------------------------------------ */
 header {
@@ -199,7 +206,7 @@ header h1#logo {
 
 #main-nav #g3 {
     top:20px;
-    left:670px;
+    right: 180px;
     background:url(../images/TOP_11.jpg) 0 0 no-repeat;
     width:69px;
     height: 46px;
@@ -300,7 +307,7 @@ header h1#logo {
 }
 
 #news-inner {
-    height:32px;
+    height:auto;
     line-height: 32px;
     /* width:1000px; */
     margin: auto;
@@ -337,7 +344,7 @@ header h1#logo {
     color:#d20d17;
     padding-left:20px;
     margin-bottom: 20px;
-    height: 40px;
+    height: auto;
     line-height: 40px;
 }
 
@@ -421,10 +428,11 @@ header h1#logo {
 }
 
 #lead #carousel {
-    width:2200px;
+    width:100vw;
     background:rgba(255,255,255,.8);
    padding: 10px 0;
-    margin-bottom: 90px;
+    overflow: hidden;
+   margin-bottom: 90px;
 }
 
 #lead #carousel ul {
@@ -433,6 +441,10 @@ header h1#logo {
 
 #lead #carousel li {
     width:250px;
+}
+
+#lead #carousel li img{
+    width:100%;
 }
 
 /* メンバー */
@@ -543,6 +555,7 @@ header h1#logo {
 .recentL {
     float: left;
     margin: auto;
+    max-width: 100%;
 }
 
 #recent1 {
@@ -656,7 +669,7 @@ header h1#logo {
     float: right;
     font-size:12px;
     line-height: 1.5;
-    width:522px;
+    max-width:522px;
 }
 
 /* calendar */
@@ -671,7 +684,7 @@ footer {
 
 #eco-action21 {
     float: left;
-    width:450px;
+    max-width:450px;
     margin-right: 20px;
 }
 
@@ -693,7 +706,7 @@ footer {
 }
 
 #eco-detail {
-    width:310px;
+    max-width:310px;
     float: right;
     font-size:13px;
 }
@@ -919,19 +932,19 @@ footer {
 .intL p {
     width:60%;
     float: left;
-    margin-right:2%;
+    margin-right:3%;
 }
 
 .intL img {
     float: right;
-    width:38%;
+    width:37%;
     height: auto;
     overflow: hidden;
 }
 
 .intR p {
     width:60%;
-    float: right;
+    float: left;
     margin-left:2%;
 }
 
@@ -963,7 +976,7 @@ footer {
 }
 
 #session-area {
-    width:700px;
+    max-width:700px;
     float: left;
 }
 
@@ -1103,7 +1116,7 @@ footer {
 
 .eq-wrap {
     margin:20px auto;
-    width:940px;
+    max-width:940px;
 }
 
 .eq-flex {
@@ -1239,7 +1252,7 @@ table.company td {
 }
 tr.torihiki {
     margin: 0;
-    width: 500px;
+    max-width: 500px;
     font-size: 16px;
     border: none;
     border-top: solid 1px #333;
@@ -1269,7 +1282,7 @@ td.data2 {
 }
 td.data2 li {
 	list-style-type:none;
-    width: 550px;
+    max-width: 550px;
 } 
 
 
@@ -1300,7 +1313,7 @@ table.history td {
 }
 #office .box1 {
 	background-color:#E6E6E6;
-	margin:0 0 10px 120px;
+	max-margin:0 0 10px 120px;
     width:700px;
     height:350px;
     text-align: left;
@@ -1405,7 +1418,7 @@ table.policy td {
 }
 
 p.aisatu {
-    width:750px;
+    max-width:750px;
 	margin:0 0 0 110px;
 }
 
@@ -1423,7 +1436,7 @@ p.aisatu {
 
 #work .box {
     position: static;
-    width:1000px;
+    max-width:1000px;
     text-align: center;
 }
 #work .left {
@@ -1655,4 +1668,14 @@ table.formTable th {
 table.formTable td {
 	border: 1px solid #666666;
 	padding:15px;
+}
+table.formTable input,
+table.formTable textarea{
+	width: 90%;
+}
+table.formTable input[type="checkbox"],
+table.formTable input[type="radio"],
+table.formTable input[type="submit"],
+table.formTable input[type="reset"]{
+    width: auto;
 }

@@ -67,7 +67,7 @@
     </div>
     <div id="footer-last">
         <div class="wrapper">
-            <h3>地道・細かい…。それでも地域の力になる仕事。それが十条ステン株式会社の仕事です。</h3>
+            <h3>地道・細かい…。<br class="visible_940">それでも地域の力になる仕事。<br class="visible_940">それが十条ステン株式会社の仕事です。</h3>
             <nav id="foot-nav">
                 <ul>
                     <li><a href="policy.php">理念</a></li>
@@ -77,7 +77,12 @@
                     <li><a href="work.php">製造工程</a></li>
                     <li><a href="facility.php">主要設備</a></li>
                     <li><a href="office.php">社内活動</a></li>
-                    <li class="lastchild"><a href="office.html">環境保護方針</a></li>
+                    <?php
+                    if($_SERVER['REQUEST_URI'] == '/jujosten_last/facility.php'){
+                        echo('<li class="lastchild"><a href="office.php">環境保護方針</a></li>');
+                    }
+                    ?>
+
                 </ul>
             </nav>
             <p id="copyright">Copyright &copy; 十条ステン工業株式会社 All Rights Reserved.</p>

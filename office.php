@@ -17,8 +17,9 @@
                     <div class="box1">
                     <div class="in_l"><p class="title">私のSDGｓ始めました。</p>
                     <p class="text">環境負荷軽減に取り組み、2011年にエコアクション21の認証取得、地域の清掃活動や地域主催イベントへの寄附・参加など、2014年に川口市地域貢献事業者認定取得、生き生きとした社員を目指して2021年に健康経営に取り組む一方、世界にも目を向け、2022年4月よりは、私のSDGｓと銘打って、ひとり一人が自分の取り組む10項目の年間目標を掲げて日々挑戦しております。<br /></p></div>
-                    <div class="in_r"><img src="images/office_img01.jpg" /><img src="images/office_img02.jpg" /></div>
+                    <div class="in_r hidden_940"><img src="images/office_img01.jpg" /><img src="images/office_img02.jpg" /></div>
                     </div>
+                    <div class="in_r visible_940"><img src="images/office_img01.jpg" /><img src="images/office_img02.jpg" /></div>
                     <div class="clear"><hr /></div>
                     
 

@@ -5,7 +5,7 @@
 <article>
     <div id="news">
         <div id="news-inner">
-            <h2 class="note">最新情報</h2>
+            <p class="note">最新情報</p>
             <p>2022.06.12 ホームページリニューアルしました。</p>
             <!-- <p>20216.05.25 オフィシャルサイトをリニューアルしました。今後ともご愛顧賜りますようよろしくお願い申し上げます。</p>     -->
         </div>
@@ -50,7 +50,7 @@
     
     <section id="lead">
         <div class="wrapper">
-            <h1>地道で細かい作業。それでも地域の力になれる。それが十条ステン工業株式会社の仕事です。</h1>
+            <h1>地道で細かい作業。それでも地域の力になれる。<br class="visible_940">それが十条ステン工業株式会社の仕事です。</h1>
         </div>
         
         <!-- load carousel -->
@@ -69,7 +69,7 @@
         });
         </script>
         
-        <div id="carousel" class="wrapper">
+        <div id="carousel" class="">
             <ul id="carousel-inner">
                 <li><img src="images/j01.png" width="245" alt=""></li>
                 <li><img src="images/j03.png" width="245" alt=""></li>

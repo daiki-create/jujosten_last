@@ -57,7 +57,7 @@
                   </tr>
                   </table>
                  
-                 <h1 class="section-title">BUSINESS PARTNERS<span>協力会社</span></h1>
+                 <h1 class="section-title">BUSINESS<br class="visible_940"> PARTNERS<span>協力会社</span></h1>
                  <table class="company">
                   <tr class="torihiki">
                     <th class="data1"><p>板金溶接</p></th>
