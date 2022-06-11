@@ -268,9 +268,9 @@
     position:fixed;
     z-index: 9999;
     /*ナビのスタート位置と形状*/
-  top:-120%;
-    left:0;
-  width:100%;
+  top:0;
+    right: -100vw;
+  width:80%;
     height: 100vh;/*ナビの高さ*/
   background:#aaa;
     /*動き*/
@@ -279,7 +279,7 @@
 
 /*アクティブクラスがついたら位置を0に*/
 #g-nav.panelactive{
-    top: 0;
+    right: 0;
 }
 
 /*ナビゲーションの縦スクロール*/
@@ -324,12 +324,17 @@
   }
   #g-nav ul{
       width: 80%;
-      font-size: 2rem !important;
+      font-size: 1.6rem !important;
   }
+  
   #g-nav div a{
       display: block;
       margin: 10px auto;
       color: #333 !important;
+      text-align: left;
+  }
+  #g-nav-list div{
+    border-bottom: #222 dashed 1px;
   }
 /*========= ボタンのためのCSS ===============*/
 .openbtn1{

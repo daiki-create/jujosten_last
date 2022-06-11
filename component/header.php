@@ -41,6 +41,7 @@
                 <div><a href="company.php">会社概要</a></div>
                 <div><a href="product.php">制作実績</a></div>
                 <div><a href="mail.php">お問合せ</a></div>
+                <br>
                 <div><a href="work.php">製造工程</a></div>
                 <div><a href="facility.php">主要設備</a></div>
                 <div><a href="product.php">制作実績</a></div>
