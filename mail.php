@@ -80,7 +80,8 @@
                         <textarea name="お問い合わせ内容" cols="" rows="20"></textarea><br />
 						<br />
                         <p align="center">
-                      <input type="submit" class="form_btn" value="内容確認ページへ" />
+                      <!-- <input type="submit" class="form_btn" value="内容確認ページへ" /> -->
+                      <input type="image" src="images/form_2.gif" alt="送信" />
 					            <input type="reset" class="form_btn" value="リセット"/>
                     </p></th>
                       </tr>
