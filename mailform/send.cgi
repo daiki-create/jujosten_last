@@ -142,7 +142,7 @@ sub send {
 					&sendmail($mailfrom,$mailto[0],$conf{'res_subject'},$conf{'res_body'});
 				}
 				&logfileCreate;
-				&refresh($conf{'thanks'});
+				# &refresh($conf{'thanks'});
 			}
 		}
 		else {
