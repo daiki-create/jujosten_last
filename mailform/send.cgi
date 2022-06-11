@@ -18,7 +18,7 @@ $conf{'sendmail'} = '/usr/sbin/sendmail';
 
 #06.設置者のアドレス(カンマ区切り)
 # $conf{'mailto'} = 'm.08043447131@gmail.com';
-$conf{'mailto'} = '6280ikiad@gmail.com';
+$conf{'mailto'} = 'https://noland.sakura.ne.jp/jujosten_last/thanks.php';
 
 #07.送信完了時にリダイレクトするサンクスページ
 $conf{'thanks'} = '/thanks.php';
@@ -142,6 +142,7 @@ sub send {
 					&sendmail($mailfrom,$mailto[0],$conf{'res_subject'},$conf{'res_body'});
 				}
 				&logfileCreate;
+				&refresh($conf{'thanks'});
 			}
 		}
 		else {
