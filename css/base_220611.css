@@ -309,7 +309,7 @@ header h1#logo {
 #news-inner {
     height:auto;
     line-height: 32px;
-    /* width:1000px; */
+    width:1000px;
     margin: auto;
     font-family:"Roboto Slab" , Garamond , "Times New Roman" , "游明朝" , "Yu Mincho" , "游明朝体" , "YuMincho" , "ヒラギノ明朝 Pro W3" , "Hiragino Mincho Pro" , "HiraMinProN-W3" , "HGS明朝E" , "ＭＳ Ｐ明朝" , "MS PMincho" , serif;
 }
@@ -861,7 +861,6 @@ footer {
     margin: 20px auto 50px auto;
     background:#1a1a1a;
     max-width:940px;
-    padding-top: 10px;
 }
 
 .catch dl {
@@ -875,7 +874,8 @@ footer {
     padding:20px;
     background:#a3a3a3;
     margin:20px;
-    max-width:900px;
+    width:570px;
+    float: left;
 }
 
 .catch dt h1 {
@@ -894,17 +894,16 @@ footer {
     padding:20px;
     background:#2e2e2e;
     color:#fff;
-    max-width:900px;
+    width:610px;
     left:0;
     bottom:0;
-    margin: auto;
 }
 
 .catch dd.interview-img {
     position:absolute;
     width:290px;
     height: 290px;
-    top:0;
+    bottom:0;
     right:0;
 }
 
@@ -1239,6 +1238,7 @@ table.product th.product1 {
 
 table.company {
 	margin:0 0 0 110px;
+    width: 660px;
 }
 table.company th {
     width:80px;
@@ -1252,7 +1252,6 @@ table.company td {
 }
 tr.torihiki {
     margin: 0;
-    max-width: 500px;
     font-size: 16px;
     border: none;
     border-top: solid 1px #333;
@@ -1313,8 +1312,8 @@ table.history td {
 }
 #office .box1 {
 	background-color:#E6E6E6;
-	max-margin:0 0 10px 120px;
-    width:700px;
+	margin:0 0 10px 120px;
+    max-width:700px;
     height:350px;
     text-align: left;
 }

@@ -12,24 +12,26 @@
         <article>
             <section id="interview">
                 <div class="wrapper">
+                    
                     <div class="catch clear">
                         <dl>
                             <dt>
                                 <h1>十条ステン工業株式会社</h1>
-                                <p class="catchcopy">新しい事に挑戦しつつ、日々改善・改革に拘る研究者！！</p>
+                                <p class="catchcopy">新しい事に挑戦しつつ、<br class="visible_940">日々改善・改革に拘る研究者！！</p>
                             </dt>
                             <dd class="interviewer">
                                 <p>代表取締役 村上信二</p>
                                 <p>「弊社にかかわるすべての方々に感謝の気持ちと初心を忘れずに」をモットーに、未来を担う若者の夢を輝かせるため活動しております。</p>
                             </dd>
-                            <!-- <dd class="interview-img">
+                            <dd class="interview-img">
                                 <img src="images/man1.jpg" alt="">
-                            </dd> -->
+                            </dd>
                         </dl>
                     </div>
                 
                 </div>   
             </section>
+          
             
             <section id="session">
                 <div class="wrapper clear">

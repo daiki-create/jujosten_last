@@ -5,9 +5,8 @@
 <article>
     <div id="news">
         <div id="news-inner">
-            <p class="note">最新情報</p>
+            <h2>最新情報</h2>
             <p>2022.06.12 ホームページリニューアルしました。</p>
-            <!-- <p>20216.05.25 オフィシャルサイトをリニューアルしました。今後ともご愛顧賜りますようよろしくお願い申し上げます。</p>     -->
         </div>
     </div>
     
@@ -21,7 +20,7 @@
                     <dd>
                         <p>- より良い製品作りの担い手 -</p>
                         <p>十条ステンは板金加工のスペシャリストとして常にお客様の要望にお応えする製品づくりを心掛けています。</p>
-                        <a href="company.html"><span class="readmore">MORE</span></a>
+                        <a href="company.php"><span class="readmore">MORE</span></a>
                     </dd>
                 </dl>
                 
@@ -31,7 +30,7 @@
                     <dd>
                         <p>- 高精度・高品質・高精密 -</p>
                         <p>弊社屈指の主要設備のご紹介。クオリティ重視・短納期を追求し続け、お客様のニーズに必ずお応えします。</p>
-                        <a href="work.html"><span class="readmore">MORE</span></a>
+                        <a href="work.php"><span class="readmore">MORE</span></a>
                     </dd>
                 </dl>
                 
@@ -41,7 +40,7 @@
                     <dd>
                         <p>- オリジナル製品開発大歓迎 -</p>
                         <p>公共空間、専門空間など生活をとりまくさまざまな環境づくりをサポートいたします。<br /><br /></p>
-                        <a href="facility.html"><span class="readmore">MORE</span></a>
+                        <a href="facility.php"><span class="readmore">MORE</span></a>
                     </dd>
                 </dl>
             </div>
@@ -50,7 +49,7 @@
     
     <section id="lead">
         <div class="wrapper">
-            <h1>地道で細かい作業。それでも地域の力になれる。<br class="visible_940">それが十条ステン工業株式会社の仕事です。</h1>
+            <h1>地道で細かい作業。<br class="visible_940">それでも地域の力になれる。<br class="visible_940">それが十条ステン工業株式会社の仕事です。</h1>
         </div>
         
         <!-- load carousel -->
@@ -97,42 +96,42 @@
                 <h1 class="section-title">PRODUCTS＆INSTALLATION　WORK <span>製品・据付</span></h1>
                 <dl>
                     <dt><img src="images/item4.jpg" alt=""></dt>
-                    <dd class="recent-title"><a href="product.html">【各種BOX】</a></dd>
+                    <dd class="recent-title"><a href="product.php">【各種BOX】</a></dd>
                     <dd class="recent-text">埋込式、露出式、
 開閉式、防雨型、
 アクリルカバー組込型、寒冷地
 仕様、生体認証組込など、設置環境・条件により、各種ご用意できます。
-<span class="readmore"><a href="product.html">MORE</a></span></dd>
+<span class="readmore"><a href="product.php">MORE</a></span></dd>
                 </dl>
 
                 <dl>
                     <dt><img src="images/item5.jpg" alt=""></dt>
-                    <dd class="recent-title"><a href="product.html">【各種スタンド】</a></dd>
+                    <dd class="recent-title"><a href="product.php">【各種スタンド】</a></dd>
                     <dd class="recent-text">埋込式、露出式、
 可搬式、エアコン内蔵型、屋外型、塩害対策仕様、ゲート搭載型、生体認証対応型など、また付帯構造も含め各種ご用意できます。
-<span class="readmore"><a href="product.html">MORE</a></span></dd>
+<span class="readmore"><a href="product.php">MORE</a></span></dd>
                 </dl>
 
                 <dl>
                     <dt><img src="images/item6.jpg" alt=""></dt>
-                    <dd class="recent-title"><a href="product.html">【パーテーション】</a></dd>
+                    <dd class="recent-title"><a href="product.php">【パーテーション】</a></dd>
                     <dd class="recent-text">埋込式、置敷式、
 ガラス・アクリル嵌め込み型・ﾎﾟｲﾝﾄﾌｨｯｸｽ型、格子型など、意匠性を考慮して各種ご用意できます。
-<span class="readmore"><a href="product.html">MORE</a></span></dd>
+<span class="readmore"><a href="product.php">MORE</a></span></dd>
                 </dl> 
 
                 <dl>
                     <dt><img src="images/item3.jpg" alt=""></dt>
-                    <dd class="recent-title"><a href="product.html">【その他製品】</a></dd>
+                    <dd class="recent-title"><a href="product.php">【その他製品】</a></dd>
                     <dd class="recent-text">ステンレス・スチール・アルミなど各種材料で、気密性、調湿性空間、セキュリテイ機能、意匠性などを考慮した構造をご用意できます。
-<span class="readmore"><a href="product.html">MORE</a></span></dd>
+<span class="readmore"><a href="product.php">MORE</a></span></dd>
                 </dl> 
 
                 <dl class="lastchild">
                     <dt><img src="images/item7.jpg" alt=""></dt>
-                    <dd class="recent-title"><a href="product.html">【据付作業】</a></dd>
+                    <dd class="recent-title"><a href="product.php">【据付作業】</a></dd>
                     <dd class="recent-text">新築、既存施設、アクセスフロアの撤去、架台設置、床張り替え、床斫りなど、現地の諸条件に対応した設置工事も行っております。
-<span class="readmore"><a href="product.html">MORE</a></span></dd>
+<span class="readmore"><a href="product.php">MORE</a></span></dd>
                 </dl> 
             </div>
 
@@ -151,7 +150,7 @@
 
                 <dl class="clear">
                     <dt class="date">2018.05.01</dt>
-                    <dd class="kind news">お知らせ</dd>
+                    <dd class="kind info">お知らせ</dd>
                     <dd class="txt">第二工場を移転・稼働致しました。業務統合により、第三工場を閉鎖しました。<i></dd>
                 </dl>
 

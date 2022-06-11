@@ -1,0 +1,405 @@
+@media screen and (max-width:940px) {
+    .hidden_940{
+        display: none;
+    }
+    .visible_940{
+        display: block;
+    }
+    html{
+        font-size: 10px !important;
+    }
+    header,
+    #recent,
+    #footer-last ul,
+    .catch,
+    .eq-wrap,
+    .wrapper{
+        padding: 0 10px;
+    }
+    body{
+        max-width: 100%;
+        font-size: 1.2rem ;
+    }
+
+    header{
+        margin-bottom:80px;
+    }
+    #main-nav #g1 {
+        top: 80px;
+    }
+    #main-nav #g2 {
+        left:25vw;
+        top: 80px;
+    }
+    #main-nav #g3 {
+        right: 35vw;
+        top: 80px;
+    }
+    #main-nav #g4 {
+        top: 80px;
+    }
+    #carousel{
+        margin-bottom: 50px !important;
+    }
+    #lead #carousel li {
+        width:250px;
+    }
+    #recent1 dl {
+    width: 47%;
+    }
+    #recent1 h1{
+        height: auto;
+    }
+    #contents-inner dl {
+        width:32%;
+        margin-right: 1%;
+        min-height: auto;
+    }
+    #contents-inner dd {
+        height: auto;
+        padding: 2px !important;
+        font-size: 1.0rem !important;
+    }
+    #contents-inner dd img {
+        width:100%;
+    }
+    #footer-inner li {
+    width:100%;
+    margin-bottom: 10px;
+    }
+    #getAcrobat p {
+        float: left;
+    }
+    #eco-detail {
+        float: left;
+    }
+    #adrs dl {
+        margin-left: 10px;
+    }
+    table.company,
+    table.history {
+        margin:0;
+    }
+    table.company img{
+        width: 100%;
+    }
+    #sub-nav li {
+        width:100%;
+    }
+    table.formTable {
+        width:100%;
+    }
+    table.formTable th {
+        width:20%;
+        padding:15px 5px;
+    }
+    table.formTable td {
+        width:80% !important;
+    }
+    h2{
+        font-size: 3.2rem !important;
+    }
+    #product th{
+        display: none;
+    }
+    #prof-area {
+        float: left;
+        width:100%;
+        margin-left: 0;
+    }
+    #prof-area img {
+        width:100%;
+    }
+    .profiel p {
+        width:100%;
+    }
+    p.aisatu {
+        margin:0;
+    }
+    .eq-flex {
+        display: block;
+    }
+    .eq-wrap dl {
+        display: block;
+        margin: 10px 0;
+        width: 100%;
+    }
+    #equip p.note{
+        margin-left: 0;
+    }
+    #work p.note{
+        margin-left: 0;
+    }
+    #work {
+        margin:0 0 0 0;
+    }
+    #work .left {
+        width:44%;
+        margin: 0;
+    }
+    #work .right {
+        width:44%;
+        margin: 0;
+    }
+    #work .absolute {
+        width: 100%;
+    }
+    #work .absolute p{
+        font-size: 1.2rem !important;
+    }
+    #work .left img,
+    #work .right img{
+        width: 100%;
+    }
+    #work img.line {
+        width: 50%;
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+    #work .center{
+        display: none;
+    }
+    .history th.t_top{
+        width: 20vw;
+    }
+    #interview h1{
+        font-size: 2rem;
+    }
+    .catch {
+        margin: 20px auto 50px auto;
+        background:#1a1a1a;
+        max-width:940px;
+        padding-top: 20px;
+    }
+    #office .box1 {
+        margin:0 0 10px 0;
+        width:100%;
+    }
+    #office .box2-1 {
+        margin: 0;
+        width:100%;
+        text-align: left;
+        float:none;
+        height: 500px;
+    }
+    #office .box2-2 {
+        margin: 0;
+        width:100%;
+        text-align: left;
+        float:right;
+        height: 500px;
+    }
+    .in_r img{
+        width: 50%;
+    }
+    .in_l{
+        padding-left: 0 !important;
+        margin: auto;
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+    #office .box2-2 .in,
+    #office .box2-1 .in {
+        margin: 0 !important;
+        width: 94%;
+    }
+    #office .in img{
+        width: 50%;
+    }
+    #news-inner{
+        width: 100%;
+    }
+    #news-inner h2{
+        font-size: 1.2rem !important;
+        margin-left: 20px;
+    }
+    table.company {
+        width: 100%;
+    }
+    .catch dt {
+        width: 80% !important;
+        margin: auto;
+        position: relative;
+        float: none;
+    }
+    .catch dd.interviewer {
+        width: 60%;
+    }
+    .catch dd.interview-img {
+        width: 30%;
+        height: 30vw;
+    }
+    .catch dd.interview-img img{
+        width: 100%;
+        object-fit: contain;
+        height: auto;
+    }
+    .catch dl {
+        height: 250px;
+    }
+    header{
+        width: 90% !important;
+        margin: 20px 0;
+        display: flex;
+    }
+
+    header a:nth-child(1){
+        display: block;
+        width: 80%;
+    }
+    header a:nth-child(1) img{
+        width: 100%;
+    }
+    header h1#logo {
+        width: 100%;
+        background-image: none;
+    }
+    header #header_right{
+        margin: auto 0;
+        width: 10%;
+        padding-left: 10px;
+    }
+    header #header_right #hamburger{
+        cursor: pointer;
+    }
+/* ハンバーガー */
+#g-nav{
+    /*position:fixed;にし、z-indexの数値を大きくして前面へ*/
+    position:fixed;
+    z-index: 9999;
+    /*ナビのスタート位置と形状*/
+  top:-120%;
+    left:0;
+  width:100%;
+    height: 100vh;/*ナビの高さ*/
+  background:#aaa;
+    /*動き*/
+  transition: all 0.6s;
+}
+
+/*アクティブクラスがついたら位置を0に*/
+#g-nav.panelactive{
+    top: 0;
+}
+
+/*ナビゲーションの縦スクロール*/
+#g-nav.panelactive #g-nav-list{
+    /*ナビの数が増えた場合縦スクロール*/
+    position: fixed;
+    z-index: 9999; 
+    width: 100%;
+    height: 100vh;/*表示する高さ*/
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+/*ナビゲーション*/
+#g-nav ul {
+    /*ナビゲーション天地中央揃え*/
+    position: absolute;
+    z-index: 9999;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+
+/*リストのレイアウト設定*/
+#g-nav li{
+  list-style: none;
+    text-align: center; 
+    width: 100%;
+    display: block !important;
+}
+#g-nav li a{
+  color: #222 !important;
+  text-decoration: none;
+  padding:10px;
+  display: block !important;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: bold;
+}
+#g-nav li a:hover{
+    opacity: 0.6;
+  }
+  #g-nav ul{
+      width: 80%;
+      font-size: 2rem !important;
+  }
+  #g-nav div a{
+      display: block;
+      margin: 10px auto;
+      color: #333 !important;
+  }
+/*========= ボタンのためのCSS ===============*/
+.openbtn1{
+  position:relative;
+    z-index: 99999;/*ボタンを最前面に*/
+  top:0;
+  cursor: pointer;
+    width: 50px;
+    height:50px;
+}
+  
+/*×に変化*/  
+.openbtn1 span{
+    display: inline-block;
+    transition: all .4s;
+    position: absolute;
+    /* left: 50%;
+    transform: translateX(-50%); */
+    height: 3px;
+    border-radius: 2px;
+  background-color: #333;
+    width: 60px;
+  }
+
+.openbtn1 span:nth-of-type(1) {
+  top:5px; 
+}
+
+.openbtn1 span:nth-of-type(2) {
+  top:25px;
+}
+
+.openbtn1 span:nth-of-type(3) {
+  top:45px;
+}
+
+.openbtn1.active span:nth-of-type(1) {
+    top: 18px;
+    left: 18px;
+    transform: translateY(6px) rotate(-45deg);
+    width: 100%;
+}
+
+.openbtn1.active span:nth-of-type(2) {
+  opacity: 0;
+}
+
+.openbtn1.active span:nth-of-type(3){
+    top: 30px;
+    left: 18px;
+    transform: translateY(-6px) rotate(45deg);
+    width: 100%;
+}
+    table td,
+    table th p{
+        font-size: 1.2rem !important;
+    }
+    footer h3{
+        font-size: 1.4rem !important;
+    }
+    h2{
+        font-size: 2rem !important;
+    }
+    h1{
+        font-size: 2rem !important;
+    }
+    #sub-nav p{
+        font-size: 2rem !important;
+    }
+    .prod h3{
+        font-size: 1.8rem !important;
+    }
+}
