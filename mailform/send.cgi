@@ -21,7 +21,7 @@ $conf{'sendmail'} = '/usr/sbin/sendmail';
 $conf{'mailto'} = 'https://noland.sakura.ne.jp/jujosten_last/thanks.php';
 
 #07.送信完了時にリダイレクトするサンクスページ
-$conf{'thanks'} = '/thanks.php';
+$conf{'thanks'} = '../thanks.php';
 
 #08.設置者に届くメールの件名
 $conf{'subject'} = '十条ステン工業株式会社オフィシャルサイトからお問合せがきました';
@@ -312,8 +312,7 @@ sub getQuery {
 
 sub refresh {
 	my($refreshurl) = @_;
-	# print "Location: ${refreshurl}\n\n";
-	print "Location: google.com\n\n";
+	print "Location: ${refreshurl}\n\n";
 }
 
 sub logfileCreate {
