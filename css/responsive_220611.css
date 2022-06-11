@@ -143,6 +143,7 @@
     }
     #work .absolute {
         width: 100%;
+        height: auto;
     }
     #work .absolute p{
         font-size: 1.2rem !important;
@@ -406,5 +407,15 @@
     }
     .prod h3{
         font-size: 1.8rem !important;
+    }
+    #work .right p,
+    #work .left p{
+        font-size: 0.8rem !important;
+        line-height: 1.0rem;
+    }
+    #work .right,
+    #work .left{
+       padding: 1%;
+       width: 48%;
     }
 }
