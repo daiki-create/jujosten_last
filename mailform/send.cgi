@@ -17,8 +17,18 @@ $conf{'spam_block'} = 0;
 $conf{'sendmail'} = '/usr/sbin/sendmail';
 
 #06.設置者のアドレス(カンマ区切り)
-# $conf{'mailto'} = 'm.08043447131@gmail.com';
-$conf{'mailto'} = '6280ikiad@gmail.com';
+if($ENV{'REMOTE_HOST'} eq "www.j-s-k.jp")
+{
+	$conf{'mailto'} = 'm.08043447131@gmail.com';
+}
+elsif($ENV{'REMOTE_HOST'} eq "noland.sakura.ne.jp")
+{
+	$conf{'mailto'} = 'm.08043447131@gmail.com';
+}
+else
+{
+	$conf{'mailto'} = '6280ikiad@gmail.com';
+}
 
 #07.送信完了時にリダイレクトするサンクスページ
 $conf{'thanks'} = '../thanks.php';
