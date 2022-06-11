@@ -74,17 +74,6 @@
                 </div>
                 
                 
-                <!--インタビューに対するコメント -->
-                <div id="interview-comment" class="wrapper">
-                    <h2 class="section-title">COMMENTS <span>社員から村上社長へのコメント</span></h2>
-                    <!-- コメント -->                    
-                    <div class="comm-man">
-                        <img src="images/man2.jpg" alt="" class="comm-img">
-                        <div class="comm-comm">
-                            元々は社内現場作業を中心に、技術者として腕を磨いてきた経歴を生かし、三代目・代表取締役に就任してから、社内現場改革及び環境設備・地域貢献にも目を向け、現代社会に通用する会社造りにご尽力されています。従業員との壁を極力無くし、気さくに話せる関係を保ち、思いやりのある方ですので、今後も従業員一同期待に応えられる様、支えていきたいと思います。
-                        </div>
-                    </div>
-                </div>
             </section>
             
             <?php include 'component/sub-nav.php';?>

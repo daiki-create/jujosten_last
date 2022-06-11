@@ -258,7 +258,7 @@
     header #header_right{
         margin: auto 0;
         width: 10%;
-        padding-left: 10px;
+        padding-left: 20px;
     }
     header #header_right #hamburger{
         cursor: pointer;
@@ -299,7 +299,7 @@
     /*ナビゲーション天地中央揃え*/
     position: absolute;
     z-index: 9999;
-    top:50%;
+    top:40%;
     left:50%;
     transform: translate(-50%,-50%);
 }
@@ -325,7 +325,7 @@
   }
   #g-nav ul{
       width: 80%;
-      font-size: 1.6rem !important;
+      font-size: 1.4rem !important;
   }
   
   #g-nav div a{
@@ -357,7 +357,7 @@
     height: 3px;
     border-radius: 2px;
   background-color: #333;
-    width: 60px;
+    width: 40px;
   }
 
 .openbtn1 span:nth-of-type(1) {
@@ -365,11 +365,11 @@
 }
 
 .openbtn1 span:nth-of-type(2) {
-  top:25px;
+  top:20px;
 }
 
 .openbtn1 span:nth-of-type(3) {
-  top:45px;
+  top:35px;
 }
 
 .openbtn1.active span:nth-of-type(1) {

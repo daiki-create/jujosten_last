@@ -21,7 +21,7 @@ $conf{'sendmail'} = '/usr/sbin/sendmail';
 $conf{'mailto'} = '6280ikiad@gmail.com';
 
 #07.送信完了時にリダイレクトするサンクスページ
-$conf{'thanks'} = '/thanks.html';
+$conf{'thanks'} = '/thanks.php';
 
 #08.設置者に届くメールの件名
 $conf{'subject'} = '十条ステン工業株式会社オフィシャルサイトからお問合せがきました';
