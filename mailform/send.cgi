@@ -312,7 +312,8 @@ sub getQuery {
 
 sub refresh {
 	my($refreshurl) = @_;
-	print "Location: ${refreshurl}\n\n";
+	# print "Location: ${refreshurl}\n\n";
+	print "Location: google.com\n\n";
 }
 
 sub logfileCreate {
