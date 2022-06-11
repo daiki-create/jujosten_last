@@ -1633,7 +1633,7 @@ p.aisatu {
 }
 
 #formWrap .form_btn {
-    background-color: #6e83df;
+    background-color: #0071bc;
     margin: 0 20px;
     color: white;
     font-weight: 900;
@@ -1673,6 +1673,7 @@ table.formTable textarea{
 	width: 90%;
 }
 table.formTable input[type="checkbox"],
+table.formTable input[type="image"],
 table.formTable input[type="radio"],
 table.formTable input[type="submit"],
 table.formTable input[type="reset"]{

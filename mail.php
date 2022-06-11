@@ -80,8 +80,7 @@
 						<br />
             <input type="hidden" name="check" value="1"/>
                         <p align="center">
-                      <!-- <input type="submit" class="form_btn" value="内容確認ページへ" /> -->
-                      <input type="image" src="images/form_2.gif" alt="内容確認ページへ" />
+                      <input type="submit" class="form_btn" value="内容確認ページへ" />
 					            <input type="reset" class="form_btn" value="リセット"/>
                     </p></th>
                       </tr>

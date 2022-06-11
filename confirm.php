@@ -24,7 +24,7 @@ if($_POST['会社名']=='' or $_POST['住所']=='' or $_POST['お名前（漢字
             <section id="equip">
                 <div class="wrapper">
                     <h1 class="section-title">Mail Form<span>メールフォーム（確認）</span></h1>
-                    <p class="note">以下の内容で送信してもよろしいですか？</p>
+                    <p class="note" style="color:blue;font-weight:bold;">以下の内容で送信してもよろしいですか？</p>
                 </div>
                 
                 <link rel="stylesheet" href="css/lightbox.css">
