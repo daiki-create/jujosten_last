@@ -28,7 +28,7 @@
                                 <a href="images/j32.png" data-lightbox="equip"><img src="images/j32.png" height="270px" /></a>
                                 <a href="images/j34.png" data-lightbox="equip"><img src="images/j34.png" height="270px" /></a>
                                 <a href="images/j35.png" data-lightbox="equip"><img src="images/j35.png" height="270px" /></a>
-                                <a href="images/j35.png" data-lightbox="equip"><img src="images/j36.png" height="270px" /></a>
+                                <a href="images/j36.png" data-lightbox="equip"><img src="images/j36.png" height="270px" /></a>
                             </td>
                         </tr>
                     </table>
@@ -44,7 +44,7 @@
                                 <a href="images/j41.png" data-lightbox="equip"><img src="images/j41.png" height="270px" /></a>
                                 <a href="images/j37.png" data-lightbox="equip"><img src="images/j37.png" height="270px" /></a>
                                 <a href="images/j38.png" data-lightbox="equip"><img src="images/j38.png" height="270px" /></a>
-                                <a href="images/j38.png" data-lightbox="equip"><img src="images/j39.png" height="270px" /></a>
+                                <a href="images/j39.png" data-lightbox="equip"><img src="images/j39.png" height="270px" /></a>
                                 <a href="images/j66.png" data-lightbox="equip"><img src="images/j66.png" height="270px" /></a>
                                 <a href="images/j40.png" data-lightbox="equip"><img src="images/j40.png" height="270px" /></a>
                                 <a href="images/j41.png" data-lightbox="equip"><img src="images/j41.png" height="270px" /></a>

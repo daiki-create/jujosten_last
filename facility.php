@@ -119,7 +119,7 @@
                         </dl>
                         
                         <dl>
-                            <dt><a href="images/photoL.jpg" data-lightbox="equip"><img src="images/lead12.png" alt="ロボット溶接機"></a></dt>
+                            <dt><a href="images/lead12.png" data-lightbox="equip"><img src="images/lead12.png" alt="ロボット溶接機"></a></dt>
                             <dd>
                                 <h2>パナソニック</h2>
                                 <p>VR-006AⅡ</p>
@@ -128,7 +128,7 @@
                         </dl>
                         
                         <dl>
-                            <dt><a href="images/lead12.png" data-lightbox="equip"><img src="images/lead13.png" alt="コンデンサ溶接機"></a></dt>
+                            <dt><a href="images/lead13.png" data-lightbox="equip"><img src="images/lead13.png" alt="コンデンサ溶接機"></a></dt>
                             <dd>
                                 <h2>パナソニック</h2>
                                 <p>Hi-MAX　YG-A50HJI</p>

@@ -23,7 +23,7 @@
                     </address>
                
                 <span class="map">
-                    <a href="">MAP</a>
+                    <a href="https://www.google.com/maps/place/%E3%80%92332-0003+%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%B7%9D%E5%8F%A3%E5%B8%82%E6%9D%B1%E9%A0%98%E5%AE%B6%EF%BC%95%E4%B8%81%E7%9B%AE%EF%BC%97%E2%88%92%EF%BC%91%EF%BC%99/@35.7889125,139.7498979,17z/data=!3m1!4b1!4m5!3m4!1s0x6018924a9b7febd1:0xc2b1e78a4c541272!8m2!3d35.7889125!4d139.7520812">MAP</a>
                 </span>
                 </dd>
             </dl>
@@ -52,15 +52,15 @@
         <div id="footer-inner">
             <div class="wrapper">
                 <ul class="clear">
-                    <li><a href="http://www.j-s-k.jp/product.php">電動式シャッター用スイッチボックス</a></li>
-                    <li><a href="http://www.j-s-k.jp/product.php">各種ボックス（ID認証・生体認証各種端末、インターホン、<br>カメラ等組込用）</a></li>
-                    <li><a href="http://www.j-s-k.jp/product.php">各種スタンド（自立、ゲート搭載、キャビネット搭載）</a></li>
-                    <li><a href="http://www.j-s-k.jp/product.php">各種架台（ゲート、パーテーション、BDS、壁面収納家具、<br>金庫）</a></li>
-                    <li><a href="http://www.j-s-k.jp/product.php">家具（スライドレール付き引出、鍵保管庫収納・積載用、<br>ＰＣ収納用、鍵保管用、美術工芸品用）</a></li>
-                    <li><a href="http://www.j-s-k.jp/product.php">各種筐体（医療用、電子機器用）</a></li>
-                    <li><a href="http://www.j-s-k.jp/product.php">各種パネル（各種BOX塞ぎ用、機器撤去後塞ぎ用、機器接続用、<br>巾木等内装用、アクリル・木加工・印刷等）</a></li>
-                    <li><a href="http://www.j-s-k.jp/product.php">建築金物（格子、サッシュ枠、フロント、グレーチング等）</a></li>
-                    <li><a href="http://www.j-s-k.jp/product.php">鋼構造物取付作業（上記製品の運搬、搬入、取付、仕上げ工事）</a></li>
+                    <li><a href="product.php">電動式シャッター用スイッチボックス</a></li>
+                    <li><a href="product.php">各種ボックス（ID認証・生体認証各種端末、インターホン、<br>カメラ等組込用）</a></li>
+                    <li><a href="product.php">各種スタンド（自立、ゲート搭載、キャビネット搭載）</a></li>
+                    <li><a href="product.php">各種架台（ゲート、パーテーション、BDS、壁面収納家具、<br>金庫）</a></li>
+                    <li><a href="product.php">家具（スライドレール付き引出、鍵保管庫収納・積載用、<br>ＰＣ収納用、鍵保管用、美術工芸品用）</a></li>
+                    <li><a href="product.php">各種筐体（医療用、電子機器用）</a></li>
+                    <li><a href="product.php">各種パネル（各種BOX塞ぎ用、機器撤去後塞ぎ用、機器接続用、<br>巾木等内装用、アクリル・木加工・印刷等）</a></li>
+                    <li><a href="product.php">建築金物（格子、サッシュ枠、フロント、グレーチング等）</a></li>
+                    <li><a href="product.php">鋼構造物取付作業（上記製品の運搬、搬入、取付、仕上げ工事）</a></li>
                 </ul>    
             </div>
         </div>

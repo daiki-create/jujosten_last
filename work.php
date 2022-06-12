@@ -28,7 +28,7 @@
                                 <figcaption class="absolute"><p class="text2">切断工程<br />シャーリングによるステンレス、<br />鉄、アルミ等、金属材料の切断</p></figcaption>
                             </figure>
                         </div>
-                        <div class="center"><img src="images/work1.png" width="" /></div>
+                        <!-- <div class="center"><img src="images/work1.png" width="" /></div> -->
                     </div>
 
                     <div class="clear"><hr /></div>  
@@ -41,6 +41,7 @@
                                 <img src="images/work13.jpg" width="350px" alt="プレス工程│タレットパンチブレス・セット　プレス・プレスブレーキ等による抜き加工" />
                                 <figcaption class="absolute"><p class="text2">プレス工程<br />タレットパンチブレス・セット<br />プレス・プレスブレーキ等による抜き加工</p></figcaption>
                             </figure>
+                            <div class="visible_940" style="float:left"><a style="color:#555" href="http://j-s-k.jp/video/turret_pp.mp4">動画を見る</a></div>
                         </div>
                         <div class="right">
                             <figure class="relative">
@@ -48,7 +49,7 @@
                                 <figcaption class="absolute"><p class="text2">曲げ工程<br />ベンダー・フライスＶ溝加工等に<br />よる曲げ加工</p></figcaption>
                             </figure>
                         </div>
-                        <div class="center"><img src="images/work1.png" width="" /></div>
+                        <!-- <div class="center"><img src="images/work1.png" width="" /></div> -->
                     </div>
 
                     <div class="clear"><hr /></div>  
@@ -67,8 +68,10 @@
                                 <img src="images/work14.jpg" width="350px" alt="溶接組立工程│ティグ溶接・スポット溶接・コンデンサー溶接 ロボット溶接機等による組立加工" />
                                 <figcaption class="absolute"><p class="text2">溶接組立工程<br />ティグ溶接・スポット溶接・コンデンサー溶接<br />ロボット溶接機等による組立加工</p></figcaption>
                             </figure>
+                            <div class="visible_940" style="float:left"><a style="color:#555" href="http://j-s-k.jp/video/robot1_wm.mp4">動画を見る</a></div>
+                            <div class="visible_940" style="float:right"><a style="color:#555" href="http://j-s-k.jp/video/condenser_spot_wm.mp4">動画を見る</a></div>
                         </div>
-                        <div class="center"><img src="images/work1.png" width="" /></div>
+                        <!-- <div class="center"><img src="images/work1.png" width="" /></div> -->
                     </div>
 
                     <div class="clear"><hr /></div>  
@@ -81,6 +84,7 @@
                                 <img src="images/work15.jpg" width="350px" alt="仕上げ工程│サンダー・レジンダー・平面 研磨機・手作業等による仕上げ加工" />
                                 <figcaption class="absolute"><p class="text2">仕上げ工程<br />サンダー・レジンダー・平面<br />研磨機・手作業等による仕上げ加工</p></figcaption>
                             </figure>
+                            <div class="visible_940" style="float:left"><a style="color:#555" href="http://j-s-k.jp/video/polishing_m_with_water.mp4">動画を見る</a></div>
                         </div>
                         <div class="right">
                             <figure class="relative">
@@ -88,7 +92,7 @@
                                 <figcaption class="absolute"><p class="text1">組立運搬・発送<br />製品組立・検査・梱包・発送</p></figcaption>
                             </figure>
                         </div>
-                        <div class="center"><img src="images/work1.png" width="" /></div>
+                        <!-- <div class="center"><img src="images/work1.png" width="" /></div> -->
                     </div>
                </div>
             </section>

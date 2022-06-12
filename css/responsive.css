@@ -224,7 +224,10 @@
         float: none;
     }
     .catch dd.interviewer {
-        width: 60%;
+        width: 88%;
+    }
+    .catch dd.interviewer p {
+        width: 65%;
     }
     .catch dd.interview-img {
         width: 30%;
@@ -236,7 +239,7 @@
         height: auto;
     }
     .catch dl {
-        height: 250px;
+        height: 270px;
     }
     header{
         width: 90% !important;
