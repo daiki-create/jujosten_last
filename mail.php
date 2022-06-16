@@ -3,7 +3,7 @@
         <div class="section-title-area">
             <div class="wrapper">
                 <h2>お問い合わせ・ご相談</h2>
-                <p>ステンレス製品の板金やオリジナル製品などのご相談もお気軽にお問合せください</p>    
+                <p>ステンレス以外の板金やオリジナル製品のご相談もお気軽にお問合せください。</p>    
             </div>
         </div>
 
@@ -12,8 +12,17 @@
         <article>
             <section id="equip">
                 <div class="wrapper">
+                    <h1 class="section-title">Information<span>お問い合わせ</span></h1>
+                    <p class="note hidden_940">TEL　０４８（２２２）５７３３（代）</p>
+                    <p class="note visible_940"><a class='tel' href='tel:0482225733'>TEL　０４８（２２２）５７３３（代）</a></p>
+                    <p class="note">　（受付時間８：３０～１８：０５／土・日曜・祝日定休）</p><br>
+                    <p class="note">FAX　０４８（２２２）５７３２</p>
+                    <p class="note">　（２４時間受付、対応は営業時間）</p><br>
+                </div>
+
+                <div class="wrapper">
                     <h1 class="section-title">Mail Form<span>メールフォーム</span></h1>
-                    <p class="note">以下よりお気軽にお問い合わせください。弊社担当者より折り返しご連絡をさせていただきます。<br>尚、このぺージにてご入力いただきましたお客様の個人情報につきましては、お客様からのお問合せにお応えするためにのみ利用させていただき、その目的以外には利用いたしません。<br>※下記フォームより問い合わせても返信がない場合は、<a href="">こちら</a>をクリック。</p>
+                    <p class="note">このぺージにてご入力いただきましたお客様の個人情報につきましては、お客様からのお問合せにお応えするためにのみ利用させていただき、その目的以外には利用いたしません。</p>
                 </div>
                 
                 <link rel="stylesheet" href="css/lightbox.css">

@@ -12,7 +12,6 @@
         <article>
             <section id="product">
                 <div class="wrapper">
-                    <h1 class="section-title">弊社主要設備のご案内</h1>
                     <p class="note">写真をクリックすると、拡大画像をご覧になれます。</p>
                     <link rel="stylesheet" href="css/lightbox.css">
                     <script src="js/lightbox.js"></script>
@@ -41,7 +40,6 @@
                         <tr>
                             <th class="product1"></th>
                             <td>
-                                <a href="images/j41.png" data-lightbox="equip"><img src="images/j41.png" height="270px" /></a>
                                 <a href="images/j37.png" data-lightbox="equip"><img src="images/j37.png" height="270px" /></a>
                                 <a href="images/j38.png" data-lightbox="equip"><img src="images/j38.png" height="270px" /></a>
                                 <a href="images/j39.png" data-lightbox="equip"><img src="images/j39.png" height="270px" /></a>
@@ -49,7 +47,7 @@
                                 <a href="images/j40.png" data-lightbox="equip"><img src="images/j40.png" height="270px" /></a>
                                 <a href="images/j41.png" data-lightbox="equip"><img src="images/j41.png" height="270px" /></a>
                                 <a href="images/j42.png" data-lightbox="equip"><img src="images/j42.png" height="270px" /></a>
-                                <a href="images/j43.png" data-lightbox="equip"><img src="images/j43.png" height="270px" /></a>
+                                <a href="images/j67.png" data-lightbox="equip"><img src="images/j67.png" height="270px" /></a>
                             </td>
                         </tr>
                     </table>
@@ -119,7 +117,7 @@
                     <table class="product">
                         <tr>
                             <div class="prod clear">
-                                <h3>間仕切　その１</h3>
+                                <h3>パーテーション　その１</h3>
                             </div>
                             <th class="product1"></th>
                             <td>
@@ -132,7 +130,7 @@
                     <table class="product">
                         <tr>
                             <div class="prod clear">
-                                <h3>間仕切　その２</h3>
+                                <h3>パーテーション　その２</h3>
                             </div>
                             <th class="product1"></th>
                             <td>

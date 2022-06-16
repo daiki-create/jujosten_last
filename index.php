@@ -16,7 +16,7 @@
             <div id="contents-inner" class="clear">
                 <dl>
                     <dt>会社概要</dt>
-                    <dd><img src="images/topmenu_1.jpg" alt=""></dd>
+                    <dd><img src="images/topmenu_4.jpg" alt=""></dd>
                     <dd>
                         <p>- より良い製品作りの担い手 -</p>
                         <p>十条ステンは板金加工のスペシャリストとして常にお客様の要望にお応えする製品づくりを心掛けています。</p>
@@ -26,7 +26,7 @@
                 
                 <dl>
                     <dt>製造工程</dt>
-                    <dd><img src="images/topmenu_2.jpg" alt=""></dd>
+                    <dd><img src="images/topmenu_5.jpg" alt=""></dd>
                     <dd>
                         <p>- 高精度・高品質・高精密 -</p>
                         <p>弊社屈指の主要設備のご紹介。クオリティ重視・短納期を追求し続け、お客様のニーズに必ずお応えします。</p>

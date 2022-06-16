@@ -1641,6 +1641,11 @@ p.aisatu {
     padding: 5px 20px;
     cursor: pointer;
 }
+
+.tel {
+    cursor: pointer;
+}
+
 /*------------------------------------ */
 p.note {
 	margin:0 0 20px 130px;
