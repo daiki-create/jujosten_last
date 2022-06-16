@@ -11,7 +11,7 @@
 
         <article>
             <section id="equip">
-                <div class="wrapper">
+                <div id="information" class="wrapper">
                     <h1 class="section-title">Information<span>お問い合わせ</span></h1>
                     <p class="note hidden_940">TEL　０４８（２２２）５７３３（代）</p>
                     <p class="note visible_940"><a class='tel' href='tel:0482225733'>TEL　０４８（２２２）５７３３（代）</a></p>

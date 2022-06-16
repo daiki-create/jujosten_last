@@ -10,8 +10,8 @@
     <script src="js/top.js"></script>
 
     <title>Document</title>
-    <link rel="stylesheet" href="css/base.css?ver=1.1" media="screen">
-    <link rel="stylesheet" href="css/responsive.css?ver=1.1" media="screen">
+    <link rel="stylesheet" href="css/base.css?ver=1.2" media="screen">
+    <link rel="stylesheet" href="css/responsive.css?ver=1.2" media="screen">
 
     <link rel="stylesheet" type="text/css" href="css/lightbox.css" media="screen,tv" />
     <script type="text/javascript" charset="UTF-8" src="js/lightbox_plus.js"></script>
